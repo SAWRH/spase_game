@@ -1,0 +1,7 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"f:/VSCode/MonoGame1/Content/Background.png","f:/VSCode/MonoGame1/Content/bin/Windows/Content/Background.xnb","TextureProcessor","Texture2DContent",12081,3686485,1,5789421
+"f:/VSCode/MonoGame1/Content/Fireball.png","f:/VSCode/MonoGame1/Content/bin/Windows/Content/Fireball.xnb","TextureProcessor","Texture2DContent",667,1685,0,006464
+"f:/VSCode/MonoGame1/Content/Meteor.png","f:/VSCode/MonoGame1/Content/bin/Windows/Content/Meteor.xnb","TextureProcessor","Texture2DContent",2768,4565,0,0162194
+"f:/VSCode/MonoGame1/Content/Ship.png","f:/VSCode/MonoGame1/Content/bin/Windows/Content/Ship.xnb","TextureProcessor","Texture2DContent",15085,27685,0,0284265
+"f:/VSCode/MonoGame1/Content/Star.png","f:/VSCode/MonoGame1/Content/bin/Windows/Content/Star.xnb","TextureProcessor","Texture2DContent",182,185,0,0511182
+"f:/VSCode/MonoGame1/Content/Text.spritefont","f:/VSCode/MonoGame1/Content/bin/Windows/Content/Text.xnb","FontDescriptionProcessor","SpriteFontContent",2008,21538,0,6904806

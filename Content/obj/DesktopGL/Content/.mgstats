@@ -1,0 +1,9 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"f:/VSCode/MonoGame4/Content/Background.png","f:/VSCode/MonoGame4/Content/bin/DesktopGL/Content/Background.xnb","TextureProcessor","Texture2DContent",12081,3686485,0,4935375
+"f:/VSCode/MonoGame4/Content/Boom.png","f:/VSCode/MonoGame4/Content/bin/DesktopGL/Content/Boom.xnb","TextureProcessor","Texture2DContent",5030,3325,0,019933
+"f:/VSCode/MonoGame4/Content/Fireball.png","f:/VSCode/MonoGame4/Content/bin/DesktopGL/Content/Fireball.xnb","TextureProcessor","Texture2DContent",667,1685,0,0034889
+"f:/VSCode/MonoGame4/Content/Meteor.png","f:/VSCode/MonoGame4/Content/bin/DesktopGL/Content/Meteor.xnb","TextureProcessor","Texture2DContent",2768,4565,0,0141524
+"f:/VSCode/MonoGame4/Content/Score.spritefont","f:/VSCode/MonoGame4/Content/bin/DesktopGL/Content/Score.xnb","FontDescriptionProcessor","SpriteFontContent",2008,21538,0,198514
+"f:/VSCode/MonoGame4/Content/Ship.png","f:/VSCode/MonoGame4/Content/bin/DesktopGL/Content/Ship.xnb","TextureProcessor","Texture2DContent",15085,27685,0,0163369
+"f:/VSCode/MonoGame4/Content/Star.png","f:/VSCode/MonoGame4/Content/bin/DesktopGL/Content/Star.xnb","TextureProcessor","Texture2DContent",182,185,0,0014201
+"f:/VSCode/MonoGame4/Content/Text.spritefont","f:/VSCode/MonoGame4/Content/bin/DesktopGL/Content/Text.xnb","FontDescriptionProcessor","SpriteFontContent",2008,21538,0,0317102
